@@ -1223,7 +1223,7 @@
   <resource_data description="&lt;p align='left'&gt;&lt;font face='Open Sans Semibold' style='font-size: 11px;' size='11' color='#FFFFFF'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
     <resources>
       <resource url="https://mediasite.howardcc.edu/Mediasite/Play/ffa3528aee5843208dbc89008d72b0361d" image="story_content/url.png" title="What is a Hybrid? Video" />
-      <resource url="story_content/external_files/Teaching in Masks &amp; Face Shields - An Experiment.pdf" image="story_content/5qF0TdRKKwz.png" title="Teaching in Masks &amp; Face Shields - An Experiment" />
+      <resource url="story_content/external_files/Teaching in Masks &amp; Face Shields - An Experiment.pdf" image="story_content/6d1eyGbMOY8.png" title="Teaching in Masks &amp; Face Shields - An Experiment" />
     </resources>
   </resource_data>
   <transcript_data>
@@ -1247,38 +1247,7 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="62GN9iLFnr4.5aqffNH8OUo" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="1">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
-  &lt;Content&gt;
-    &lt;Block&gt;
-      &lt;Span Text="Using a mask is an important safety precaution for preventing the spread of COVID-19. While teaching in a mask does have its disadvantages, wearing a mask is required for both faculty and students while in the classroom and inside buildings on campus. &amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Span Text="&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Span Text="Face shields may be a good alternative in disciplines like language where seeing facial expressions is important to the learning process. However, masks are still strongly encouraged and faculty may switch between wearing a face shield and a mask depending on the activity. &amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Span Text="&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Span Text="The most important way to prepare yourself to teach with a mask is to practice! Try giving a 5 to 10 minute lesson while wearing a mask so that you get comfortable with the feeling and experiment with what works best. &amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Span Text="&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Span Text="Recording yourself or practicing with a friend or family member can provide feedback so that you can adjust your teaching style to be as clear and understandable as possible while wearing your mask. &amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Span Text="&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Span Text="Click GO to learn more. " /&gt;
-    &lt;/Block&gt;
-  &lt;/Content&gt;
-&lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="62GN9iLFnr4.5bvCkTMwMOf" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="2">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="62GN9iLFnr4.5bvCkTMwMOf" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="1">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Span Text="Learning in a post COVID environment also brings new challenges for students. Click on each of the pictures to learn about the challenges you and your students will face and a few strategies to address each of them. &amp;#xA;" /&gt;
@@ -1408,7 +1377,7 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="62GN9iLFnr4.5XSnyD9YCVi" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="3">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="62GN9iLFnr4.5XSnyD9YCVi" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="2">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Span Text="At HCC, we have several different modalities, or ways of teaching. Click on each of the images to view more information about each modality. &amp;#xA;" /&gt;
@@ -1508,6 +1477,37 @@
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Span Text="Click the X to return to Modalities of Teaching. " /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="62GN9iLFnr4.5aqffNH8OUo" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="3">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Using a mask is an important safety precaution for preventing the spread of COVID-19. While teaching in a mask does have its disadvantages, wearing a mask is required for both faculty and students while in the classroom and inside buildings on campus. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Face shields may be a good alternative in disciplines like language where seeing facial expressions is important to the learning process. However, masks are still strongly encouraged and faculty may switch between wearing a face shield and a mask depending on the activity. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="The most important way to prepare yourself to teach with a mask is to practice! Try giving a 5 to 10 minute lesson while wearing a mask so that you get comfortable with the feeling and experiment with what works best. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Recording yourself or practicing with a friend or family member can provide feedback so that you can adjust your teaching style to be as clear and understandable as possible while wearing your mask. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Click GO to learn more. " /&gt;
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
