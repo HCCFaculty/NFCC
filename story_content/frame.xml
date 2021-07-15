@@ -1142,51 +1142,51 @@
   <string_tables>
     <string_table name="npnxnanbnsnfns10111101101">
       <string id="acc_active">active</string>
-      <string id="check_include">Check to include</string>
-      <string id="clear">Clear and return to menu</string>
-      <string id="close">Close</string>
-      <string id="acc_closed_captions">Closed captions. Press the spacebar to toggle captions on and off.</string>
-      <string id="continue">Continue</string>
-      <string id="continueresponsive">Continue</string>
-      <string id="exit">Exit</string>
-      <string id="filter">Filter</string>
-      <string id="finish">FINISH</string>
-      <string id="acc_finish">finish</string>
-      <string id="definition">Definition</string>
-      <string id="acc_definition">definition</string>
-      <string id="glossary">Glossary</string>
+      <string id="search_results">Search Results</string>
+      <string id="search_in">Search in:</string>
+      <string id="acc_search_input">search</string>
+      <string id="search">Search...</string>
+      <string id="restart">Restart</string>
+      <string id="acc_resources">resources</string>
+      <string id="resources">Resources</string>
+      <string id="acc_replay">replay</string>
+      <string id="question_list">Question List</string>
+      <string id="resume">Resume</string>
+      <string id="acc_skipnavigation">Skip navigation. Press enter to return to the slide.</string>
+      <string id="acc_volume">volume</string>
+      <string id="acc_submit">submit</string>
+      <string id="submit">SUBMIT</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="submitall">SUBMIT ALL</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="acc_previous">previous</string>
+      <string id="prev">BACK</string>
+      <string id="closed_captions">Captions</string>
       <string id="terms">Terms</string>
-      <string id="outline">Table of Contents</string>
-      <string id="disabled_orientation">Please rotate your device</string>
-      <string id="next">NEXT</string>
-      <string id="acc_next">next</string>
-      <string id="transcript_chk">Notes</string>
+      <string id="glossary">Glossary</string>
+      <string id="acc_definition">definition</string>
+      <string id="definition">Definition</string>
+      <string id="acc_finish">finish</string>
+      <string id="finish">FINISH</string>
+      <string id="filter">Filter</string>
+      <string id="exit">Exit</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="continue">Continue</string>
+      <string id="acc_closed_captions">Closed captions. Press the spacebar to toggle captions on and off.</string>
+      <string id="close">Close</string>
+      <string id="clear">Clear and return to menu</string>
+      <string id="check_include">Check to include</string>
       <string id="transcript">Transcript</string>
       <string id="bio">Bio</string>
       <string id="more_info">More info</string>
-      <string id="closed_captions">Captions</string>
+      <string id="send_an_email">Send an email</string>
       <string id="acc_pause">pause</string>
       <string id="acc_play">play</string>
-      <string id="send_an_email">Send an email</string>
-      <string id="prev">BACK</string>
-      <string id="acc_previous">previous</string>
-      <string id="question_list">Question List</string>
-      <string id="acc_replay">replay</string>
-      <string id="resources">Resources</string>
-      <string id="acc_resources">resources</string>
-      <string id="restart">Restart</string>
-      <string id="resume">Resume</string>
-      <string id="search">Search...</string>
-      <string id="acc_search_input">search</string>
-      <string id="search_in">Search in:</string>
-      <string id="search_results">Search Results</string>
-      <string id="acc_skipnavigation">Skip navigation. Press enter to return to the slide.</string>
-      <string id="slide_text_chk">Slide Text</string>
-      <string id="submitall">SUBMIT ALL</string>
-      <string id="acc_submitall">submit all</string>
-      <string id="submit">SUBMIT</string>
-      <string id="acc_submit">submit</string>
-      <string id="acc_volume">volume</string>
+      <string id="transcript_chk">Notes</string>
+      <string id="acc_next">next</string>
+      <string id="next">NEXT</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="outline">Table of Contents</string>
     </string_table>
   </string_tables>
   <fonts>
@@ -1194,6 +1194,8 @@
       <files>
         <file bold="true" italic="false" />
         <file bold="false" italic="false" />
+        <file bold="false" italic="true" />
+        <file bold="true" italic="true" />
       </files>
     </font>
   </fonts>
@@ -1217,13 +1219,54 @@
             <slidelink slideid="_player.62GN9iLFnr4.5yRMIREYkD9" displaytext="Summary" expand="false" type="slide" />
           </links>
         </slidelink>
+        <slidelink slideid="_player.5bJwUi6ldBi" displaytext="Adult Learning Theory" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5bJwUi6ldBi.5g49wO52MHE" displaytext="Who are Community College Students?" expand="false" type="slide" />
+            <slidelink slideid="_player.5bJwUi6ldBi.5Yo7xg26nNp" displaytext="Percent Is Right Instructions" expand="false" type="slide" />
+            <slidelink slideid="_player.5bJwUi6ldBi.62wVVX88plE" displaytext="Average Age of Students" expand="false" type="slide" />
+            <slidelink slideid="_player.5bJwUi6ldBi.6holbEmPFF4" displaytext="Part-Time Students" expand="false" type="slide" />
+            <slidelink slideid="_player.5bJwUi6ldBi.6iQ3gvaYNqt" displaytext="International Students" expand="false" type="slide" />
+            <slidelink slideid="_player.5bJwUi6ldBi.6Mua6u9KKBM" displaytext="English is not spoken at home" expand="false" type="slide" />
+            <slidelink slideid="_player.5bJwUi6ldBi.651FRcl6KJd" displaytext="Community College Demographics" expand="false" type="slide" />
+            <slidelink slideid="_player.5bJwUi6ldBi.610GSnRqwsk" displaytext="The Open Door Policy" expand="false" type="slide" />
+            <slidelink slideid="_player.5bJwUi6ldBi.5qJlXsHJwCK" displaytext="Knowles’ 4 Principles Of Adult Learning" expand="false" type="slide" />
+            <slidelink slideid="_player.5bJwUi6ldBi.5d0FLw1QnV0" displaytext="Summary" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.60EodPm3h55" displaytext="Pedagogical Concepts" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.60EodPm3h55.6l35ruN2bWq" displaytext="Pedagogical Concepts" expand="false" type="slide" />
+            <slidelink slideid="_player.60EodPm3h55.5fV1ZK829ZP" displaytext="Backward Design" expand="false" type="slide" />
+            <slidelink slideid="_player.60EodPm3h55.5nKJJ2oSG0A" displaytext="Backward Design Summary" expand="false" type="slide" />
+            <slidelink slideid="_player.60EodPm3h55.6RcLppSKvJk" displaytext="Which technology would you choose?" expand="false" type="slide" />
+            <slidelink slideid="_player.60EodPm3h55.6RBP6T3SjEX" displaytext="TPACK" expand="false" type="slide" />
+            <slidelink slideid="_player.60EodPm3h55.6UYbEOng4rw" displaytext="Which technology should you choose?" expand="false" type="slide" />
+            <slidelink slideid="_player.60EodPm3h55.6GOvXqXgy1K" displaytext="Universal Design for Learning" expand="false" type="slide" />
+            <slidelink slideid="_player.60EodPm3h55.6LaeVd6jhB2" displaytext="Summary" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6Fv98gdjEiC" displaytext="Teaching Technology" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6Fv98gdjEiC.6U4e1T1bgsC" displaytext="Teaching Technology" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5hfIlExkFxm" displaytext="Instructional Strategies" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5hfIlExkFxm.5f3p5GXwcEN" displaytext="Instructional Strategies" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6jOAveyCy2n" displaytext="Classroom Community" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6jOAveyCy2n.5cekOiDCyGa" displaytext="Classroom Community" expand="false" type="slide" />
+          </links>
+        </slidelink>
       </links>
     </outline>
   </nav_data>
   <resource_data description="&lt;p align='left'&gt;&lt;font face='Open Sans Semibold' style='font-size: 11px;' size='11' color='#FFFFFF'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
     <resources>
       <resource url="https://mediasite.howardcc.edu/Mediasite/Play/ffa3528aee5843208dbc89008d72b0361d" image="story_content/url.png" title="What is a Hybrid? Video" />
-      <resource url="story_content/external_files/Teaching in Masks &amp; Face Shields - An Experiment.pdf" image="story_content/5ZnSyFCjQ0A.png" title="Teaching in Masks &amp; Face Shields - An Experiment" />
+      <resource url="story_content/external_files/Teaching in Masks &amp; Face Shields - An Experiment.pdf" image="story_content/5h3MKwhdeAi.png" title="Teaching in Masks &amp; Face Shields - An Experiment" />
     </resources>
   </resource_data>
   <transcript_data>
@@ -1617,7 +1660,43 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="62GN9iLFnr4.6dzP0ToU4kA" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="9">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="62GN9iLFnr4.5yRMIREYkD9" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="9">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="In this section, you have learned about the challenges of teaching in the post-COVID environment and strategies to deal with increased personal space, getting students to participate and building classroom community. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="You explored the differences between the four modalities of teaching, face-to-face, hybrid, scheduled remote and flexible online. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="You reviewed a non-scientific study about teaching with masks and the importance of practicing teaching with masks and finding the type of mask that is most comfortable for you. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="And you identified items to take with you to class in your ”Teacher Toolkit”. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="When you’re ready, click the " /&gt;
+      &lt;Span Text="QUIZ button "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to check your understanding of the information presented in this section. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block /&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="62GN9iLFnr4.6dzP0ToU4kA" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="10">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Span Text="There are several supplies that you may want to bring with you when you teach on campus. &amp;#xA;" /&gt;
@@ -1769,54 +1848,29 @@
     &lt;Block /&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="62GN9iLFnr4.5yRMIREYkD9" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="10">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
-  &lt;Content&gt;
-    &lt;Block&gt;
-      &lt;Span Text="In this section, you have learned about the challenges of teaching in the post-COVID environment and strategies to deal with increased personal space, getting students to participate and building classroom community. &amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Span Text="&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Span Text="You explored the differences between the four modalities of teaching, face-to-face, hybrid, scheduled remote and flexible online. &amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Span Text="&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Span Text="You reviewed a non-scientific study about teaching with masks and the importance of practicing teaching with masks and finding the type of mask that is most comfortable for you. &amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Span Text="&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Span Text="And you identified items to take with you to class in your ”Teacher Toolkit”. &amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Span Text="&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Span Text="When you’re ready, click the " /&gt;
-      &lt;Span Text="QUIZ button "&gt;
-        &lt;Style FontIsBold="True" /&gt;
-      &lt;/Span&gt;
-      &lt;Span Text="to check your understanding of the information presented in this section. &amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block /&gt;
-  &lt;/Content&gt;
-&lt;/Document&gt;</slidetranscript>
       <slidetranscript slideid="62GN9iLFnr4.6QOJrvn5MrP" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="11">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
-      &lt;Span Text="Which modality does not meet at all in real time? Select your answer, then click SUBMIT." /&gt;
+      &lt;Span Text="Which modality does not meet at all in real time? &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Select your answer, then click SUBMIT." /&gt;
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
       <slidetranscript slideid="62GN9iLFnr4.5r9tenlZz5R" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="12">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
-      &lt;Span Text="Which of the following is the BEST way to make sure students are understanding content in a F2F class?" /&gt;
-      &lt;Span Text=" Select your answer, then click SUBMIT." /&gt;
+      &lt;Span Text="Which of the following is the BEST way to make sure students are understanding content in a F2F class? &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Select your answer, then click SUBMIT." /&gt;
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
@@ -1824,7 +1878,15 @@
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style Justification="Left" /&gt;
-      &lt;Span Text="Which of the following should you bring with you each class to keep you safe and comfortable? Select your answer, then click SUBMIT." /&gt;
+      &lt;Span Text="Which of the following should you bring with you each class to keep you safe and comfortable? &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style Justification="Left" /&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style Justification="Left" /&gt;
+      &lt;Span Text="Select your answer, then click SUBMIT." /&gt;
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
@@ -1951,6 +2013,1304 @@
       &lt;Span Text="button to get started"&gt;
         &lt;Style FontIsBold="False" /&gt;
       &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5bJwUi6ldBi.5g49wO52MHE" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="17">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Community college students are a diverse population and include students from all ethnicities, backgrounds, ages, abilities, and socio-economic statuses. Students attend community college for a variety of reasons and while many go on to pursue a 4-year degree, community colleges offer many different types of programs such as career track associate degrees, certificates and continuing education classes. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="However, the one thing all community college students share is that they are adult learners. Each of your students will enter your classroom with unique experience, skills and needs, but they all should be treated and taught as adults. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="In this section, we will learn about the demographics of a community college and how those demographics may affect your teaching approach. Then we’ll explore 4 principles of adult learning that will help you better engage your students and teach adult learners more effectively. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Click GO to get started. " /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5bJwUi6ldBi.610GSnRqwsk" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="18">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="“By keeping the doors to higher education wide open, community colleges have accepted the responsibility for educating all their students, including those who are not ready to do college-level work” – Deepa Rao&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Community colleges in the United States have an “Open Door” policy which means that anyone who wants to study at a community college can do so by filling out the application and providing a copy of a high school diploma or GED certificate. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="But what does this mean for you? &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="During your time teaching at HCC, you will get students who are taking developmental classes, students with disabilities, military veterans, non-traditional students returning to school and, of course, you will see some traditional-aged students who have just graduated high school. Keep in mind that even though all of your students are in college, not all of your students have been well-prepared to do college-level work. Sharing study strategies and getting to know students individually to find out their strengths and weaknesses can help your students build skills not just for your discipline but for their entire college career. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Now let’s learn more about community college students by playing a game!&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Click GO to continue. " /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5bJwUi6ldBi.5Yo7xg26nNp" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="19">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Let’s play the Percent is Right!&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="You will be asked a series of questions about community college student demographics. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Decide on a number or percentage to answer each question and type it in the given field. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Get as close as you can to the right number without going over. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="When you’re ready to start, click PLAY to begin. " /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5bJwUi6ldBi.62wVVX88plE" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="20">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="How old is the average HCC student?&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Type your answer in the yellow box, then click SUBMIT. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Correct (REMOVE)&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Although the average age of an HCC student is 26, this means that you may have students who are significantly younger and older than 26. HCC’s dual enrollment program “JumpStart” works with local high schools to allow high school students to attend classes both at HCC and taught in high schools by HCC instructors, so you may see students as young as 16 in your classes. However, even though they may be younger than the average student, they are still considered adults and have the same rights as other students at HCC including FERPA protection and the right and opportunity to view and discuss “college-level” material. Essentially, even though students may still be in high school, they alone have the right to view and discuss their grades with their instructor, not their parents. For more information on FERPA, click the link in the resources tab to view the “Are you FERPA-red” training. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="On the other hand, you may also have students who are changing careers or auditing classes in their retirement. These students may be significantly older than 26 and may be able to provide a wealth of first hand experience and knowledge to share with the rest of the class. However, it’s always best to test the waters with them first before assuming that they can contribute to the conversation. Some older students may be self-conscious about returning to the classroom when everyone else seems to be younger than they are. Always get to know your students first and ask questions to the entire class if you aren’t sure whether or not a student wants to share their experience. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Click GO to view the next question. " /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5bJwUi6ldBi.6holbEmPFF4" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="21">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="What percent of students study part-time at HCC?&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Type your answer in the yellow box, then click SUBMIT. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Correct (REMOVE)&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="65.4% of students study part-time at HCC. This means more than half of students have additional obligations such as working part-time or full-time jobs and taking care of children, siblings or elderly parents. This may not greatly impact the way that you teach your students, but it may impact when, where and how your students learn outside the classroom. It is much more difficult to read when you are tired after working a full shift or frequently interrupted by the needs of others. Understanding and empathizing with students who are in this situation may encourage you to incorporate more flexibility into strict deadlines or attempt to communicate more with students who are missing assignments or not attending class. We should be clear however, that students are signing up for rigorous, college-level courses and their own personal circumstances do not change the material or the due dates in your syllabus. Although you cannot make your course less challenging for students who have additional obligations, you may want to set expectations at the beginning of the semester and ask students to talk to you if they do have extenuating circumstances that will affect their attendance or performance in your class. Providing a little leniency for students who let you know they will not be able to complete certain assignments at a given time or date may be acceptable if you are advised before the assignment is due. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Click GO to view the next question. " /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5bJwUi6ldBi.6iQ3gvaYNqt" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="22">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="What percent of students at HCC are international students? &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Type your answer in the yellow box, then click SUBMIT. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Correct (REMOVE)&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="13% of students at HCC are international students. 1 in 10 of students in your classroom may have grown up in a different culture and speaking a different language. This does not mean they should receive less rigorous coursework, but it does change the amount of effort they may need to put into something that could be a simple task for an American student who is familiar with the US college system and norms. Students from other cultures may also have different expectations about the roles of the teacher and the student. In some cultures, students are expected to be quiet and take notes while the teacher lectures and may be confused or hesitant when asked to participate in active learning activities. Explaining why you are doing certain activities the way you are doing them may help alleviate hesitation and provide clearer expectations of how students should behave in your class. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Click GO to view the next question. " /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5bJwUi6ldBi.6Mua6u9KKBM" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="23">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="What percentage of the Howard county population does not speak English as their native language at home? &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Type your answer in the yellow box, then click SUBMIT. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Correct (REMOVE)&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="25.2% of the Howard county population does not speak English as their native language at home. While not all of our students come from Howard county, HCC does serve this population and you may have several students in your classes for whom English is their second, third or even forth language. These students may need additional support understanding directions, assignments and course material and can benefit from closed captioning on videos and clear instructions. Reading a chapter of a textbook may take double the time it would take a native English speaker and their writing may not be as strong as other students’. Again, the goal is not to lessen the rigor of your course material, but empathizing with students and giving them tips on how to read and study in your discipline may make a huge difference in their workload and effort needed to be successful. When evaluating assignments, if writing is not the main objective, you may consider overlooking some simple spelling or grammatical errors as long as they do not affect the overall intelligibility of the assignment. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Click GO to view the next question. " /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5bJwUi6ldBi.651FRcl6KJd" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="24">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="For the last activity in our game, you will be asked to match the numbers on the right, to form the correct percentage of each community college demographic on the left. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Drag and drop the numbers into the slots to form 2 digit percentages for each demographic. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Then click SUBMIT to check your answers. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Correct (REMOVE)&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="While some of them may be surprising, the exact percentage of students in each of these demographics is less important than understanding that community colleges serve all of these types of students. First generation students may be more motivated than the average student, but may also have less support from family, additional responsibilities and fewer role models they can look to for encouragement and advice. Single parents not only have the added responsibilities of full-time or part-time work, but also must work around their children’s schedules including daycare, sick days and school holidays, not to mention parenting duties like cooking and helping their children with their homework. Veteran students may be excellent students but may have additional duties and responsibilities with the military and may have different motivations and goals for attending college. Community colleges also open their doors to students with disabilities which bring a wide range of challenges and opportunities including meeting required accommodations such as closed captioning for videos, extra time on tests and assignments, materials in alternative formats and interpreters in the classroom. See the Accommodations Memo presentation in the Resources tab to learn more about your responsibilities and how you can support students with disabilities. And finally, many students may be attending community college to pursue a new career or gain new skills they can use to be promoted at their current place of employment. Students with Bachelor’s degrees enter your classroom well-prepared to do college-level work and may speed through assignments or require additional support as they unlearn certain skills or behaviors they picked up through experience. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Overall, your classroom will be made up of a diverse set of students that will change each semester. As an instructor at a community college, you should practice flexibility, understanding and try to get to know each of your students without any assumptions of who they are or what their situation is. Each student, even within the same demographic, may have a completely different situation and while it’s not your responsibility to water down your content, you should try to meet each student wherever they are and support them as best as you can. This may mean allowing students an extra day to turn in an assignment or providing the opportunity to redo it with additional feedback and guidance. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Now let’s take a look at some strategies you can use to effectively teach adult learners. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Click GO to continue. " /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5bJwUi6ldBi.5qJlXsHJwCK" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="25">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Malcolm Knowles was one of the most famous educators who studied adult learning and coined the term “Andragogy”, which is a combination of pedagogy and adult, meaning the practice of teaching adults. Although Knowles has many important books, theories and research, let’s look at just four of the principles he used to define adult learning and how they impact adult learners. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Click on the tabs to learn more about each principle. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="When you have viewed all of the tabs, a GO button will appear which you can use to view a summary and test your understanding with a short quiz on this section. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Involvement&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style Justification="Left" /&gt;
+      &lt;Span Text="Adult learners want to be involved in their learning process and the planning and evaluation of instruction. They want to be able to make decisions about how they learn, when they learn and what they learn. In order to involve students in the learning process, incorporate choice into your assignments and materials to give adult learners more agency and ask students for feedback on how their learning is going and what changes can be made it make the class more effective. Explain why you are doing things the way you are doing them and why specific content is taught. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style Justification="Left" /&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style Justification="Left" /&gt;
+      &lt;Span Text="Experience&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style Justification="Left" /&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style Justification="Left" /&gt;
+      &lt;Span Text="One of the major differences between teaching children and teaching adults is that adults come into the classroom with a wide range of experiences that can be drastically different from one another. Fortunately, you as an instructor can leverage this experience to put the subject matter into context your students can understand which can be beneficial for all students in the classroom. Before explaining a topic or concept, check with students to see what they already know about the subject. How far can they go on their own? Once you find the limit of their knowledge or gaps in their understanding, build from that point instead of starting from scratch. And you don’t have to do all the work! Ask students to come up with their own examples of concepts or similar situations that they may have encountered in their lives.&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style Justification="Left" /&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style Justification="Left" /&gt;
+      &lt;Span Text="Relevance&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style Justification="Left" /&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style Justification="Left" /&gt;
+      &lt;Span Text="Adult learners are most interested in learning topics that they can put into practice right away. Adult learners want to know why the content matters and how it will help them in their everyday lives, either at work or personally. To help adult learners find relevance, explain connections between content and real-world situations. Similarly, ground content in real-world examples to establish how professionals in your discipline need the skill or knowledge to be successful. You can also ask students to find their own relevance in your content by challenging students to reflect on how your material relates to their own personal or professional lives. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style Justification="Left" /&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style Justification="Left" /&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style Justification="Left" /&gt;
+      &lt;Span Text="Problem-Centered&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style Justification="Left" /&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style Justification="Left" /&gt;
+      &lt;Span Text="Adult learners respond better when learning material to solve a problem instead of learning it for the sake of the content or curriculum. Framing your content in the context of a problem can provide both relevance and real-world situations while also asking learners to rely on their prior experience to attempt to solve the problem. Using techniques like case-studies and scenarios can present course concepts in a more meaningful and engaging way while also establishing relevance. Give learners a chance to attempt to solve the problem before providing instruction or guidance. Research on prediction shows that students are more receptive to receiving instruction when they have struggled first themselves and this can also help students identify gaps in their own knowledge which further establishes a sense of urgency and relevance as they “need to know” this information. " /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5bJwUi6ldBi.5d0FLw1QnV0" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="26">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="In this section, you learned about the many different types of people who study at community colleges. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Community college students have a wide range of ages, many are working part-time or full-time in addition to other personal responsibilities, and they may be international students or students who do not speak English as a first language. Many community college students may be the first person in their family to attend college, which means they may lack guidance from family members and may not be able to ask for help understanding material or assignments. They might be single parents or veterans which may affect their time-commitments and motivation for taking classes. Students with disabilities are more likely to at least start at a community college and may require additional support and accommodations. And some of the students in your classroom may be career changers or people who are seeking additional certifications required by their workplace. The one thing you can confidently say about all community college students, is that each student is different and if you’ve met one community college student, you’ve met only one community college student. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="We also explored Malcolm Knowles 4 principles of adult learning and reviewed strategies for how to involve students in the learning process, how to leverage the experience your students bring with them into the classroom, how to emphasize and demonstrate the relevance of your content and how to focus on problems rather than focusing strictly on the content itself. Using these principles to guide your teaching will help you better engage your students and teach adults more effectively. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="When you’re ready, click the " /&gt;
+      &lt;Span Text="QUIZ button "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to check your understanding of the information presented in this section. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block /&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5bJwUi6ldBi.6iVrqLOwvuc" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="27">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="True or False: All community college students should be treated as adults, regardless of their age" /&gt;
+      &lt;Span Text="." /&gt;
+      &lt;Span Text=" " /&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Select your answer, then click SUBMIT." /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5bJwUi6ldBi.65CWOfCCj70" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="28">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Checking to find out what students already know is an example of which adult learning principle?" /&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Select your answer, then click SUBMIT." /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5bJwUi6ldBi.6KtkwRacsiQ" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="29">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Which of the following activities would be an example of a problem-centered teaching approach?&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Select your answer, then click SUBMIT." /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="5bJwUi6ldBi.6eaaAiJ7cHX" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="14">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Congratulations!&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="You have completed this section of the New Faculty Crash Course! &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Click GO to view the next section on Adult Learning Theory! &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Try Again&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Click the RETRY button to take the quiz again. You must get at least 60% to pass. " /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="60EodPm3h55.6l35ruN2bWq" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="30">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="In this section, you will learn about 3 important pedagogical concepts that will help you ensure that you are meeting your course objectives, balance technology use, pedagogy and content knowledge effectively, and reach and engage all of your students. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Click on the students to view information about each concept.&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="When you have viewed all of the concepts, a GO button will appear which will take you to a summary and a quiz for this section. " /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="60EodPm3h55.5fV1ZK829ZP" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="31">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Why do you teach the content in your textbook? Why are your assessments designed the way they are? What are your course objectives anyway? &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="To answer these questions, in this section, you’ll learn about a pedagogical concept called Backward Design.&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Backward Design is a method of planning lessons to ensure that course objectives are met effectively and efficiently. In their book, " /&gt;
+      &lt;Span Text="Understanding by Design"&gt;
+        &lt;Style FontIsItalic="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text=", "&gt;
+        &lt;Style FontIsBold="True" FontIsItalic="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="Grant Wiggins and Jay McTighe describe this process as starting with the end in mind. Wiggins and McTighe encourage us to start with our goal (or our objective) and then think about what students can do or show us that would prove that they have met the objective. Once we have established our objectives and created a thoughtful assessment, we can then go on to think about what students would need to do, read or watch to be able to successfully complete our assessment. Rather than focusing on the content first, Backward Design focuses first on what we want students to be able to do and work backwards from there. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" FontIsItalic="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" FontIsItalic="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Even if your role at HCC doesn’t require you to develop courses from scratch, Backward Design can be a useful way to evaluate your existing lessons and can help you think about your courses in a more objective and strategic way that focuses on student learning outcomes and performance. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" FontIsItalic="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" FontIsItalic="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Click the video thumbnail to view a short 5-minute video of what Backward Design is and what it looks like in practice. &amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" FontIsItalic="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
+        &lt;Style FontIsBold="True" FontIsItalic="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="When you’ve finished watching the video, click the X to return to this screen and a GO button will appear that will take you to a quiz so you can check your understanding of Backward Design. "&gt;
+        &lt;Style FontIsBold="True" FontIsItalic="False" /&gt;
+      &lt;/Span&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="60EodPm3h55.5uqHNfvA5C8" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="11">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Which modality does not meet at all in real time? &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Select your answer, then click SUBMIT." /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="60EodPm3h55.6UMqOptcebe" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="13">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style Justification="Left" /&gt;
+      &lt;Span Text="Which of the following should you bring with you each class to keep you safe and comfortable? &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style Justification="Left" /&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style Justification="Left" /&gt;
+      &lt;Span Text="Select your answer, then click SUBMIT." /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="60EodPm3h55.6rTQGNKAM14" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="11">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Which modality does not meet at all in real time? &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Select your answer, then click SUBMIT." /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="60EodPm3h55.6n1fbmAmcvj" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="11">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Which modality does not meet at all in real time? &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Select your answer, then click SUBMIT." /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="60EodPm3h55.6LXMvczmqVh" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="11">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Which modality does not meet at all in real time? &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Select your answer, then click SUBMIT." /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="60EodPm3h55.5nKJJ2oSG0A" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="32">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style LineSpacingRule="Single" LineSpacing="20" SpacingAfter="0" /&gt;
+      &lt;Span Text="Summary&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style LineSpacingRule="Single" LineSpacing="20" SpacingAfter="0" /&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" LineSpacingRule="Single" LineSpacing="20" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Backward Design is a planning method for college courses" /&gt;
+      &lt;Span Text=" and can help you plan curriculum, courses or individual lessons and activities.&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" LineSpacingRule="Single" LineSpacing="20" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" LineSpacingRule="Single" LineSpacing="20" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="The 3 steps of Backward Design are identifying your objectives, designing assessments that will provide evidence of students’ ability to meet those objectives and creating learning activities that will give students the information and practice they need to perform well on those assessments. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" LineSpacingRule="Single" LineSpacing="20" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" LineSpacingRule="Single" LineSpacing="20" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Objectives should be clear and assessments should be authentic. An authentic assessment mimics what students would actually do with the information or skills in the real-world. How would you use the skill or knowledge within your discipline and how would you know you’re doing it well? &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" LineSpacingRule="Single" LineSpacing="20" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" LineSpacingRule="Single" LineSpacing="20" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Your textbook can and should play an important role in your course, but you don’t need to follow its organization or use it in its entirety for it to be useful. Identify what your textbook does well and leverage it for that, but if there are gaps or additional information or skills not covered in there, make sure to add those into your course in other ways such as supplementary materials, videos, projects or practice assignments. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" LineSpacingRule="Single" LineSpacing="20" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" LineSpacingRule="Single" LineSpacing="20" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Backward Design is NOT a linear process and you may go back and forth between your objectives, assessments and activities frequently in order to make strong connections between each of them. This is a natural part of course design and revision and review can help you make stronger connections and more relevant assessments and assignments! &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style LeadingMargin="0" FirstLineMargin="0" LineSpacingRule="Single" LineSpacing="20" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" BulletChar="•" BulletFont="Arial"&gt;
+          &lt;BulletPicture Size="0x0" /&gt;
+        &lt;/ListStyle&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style LineSpacingRule="Single" LineSpacing="20" SpacingAfter="0" /&gt;
+      &lt;Span Text="Click BACK to return to the Pedagogical Concepts slide. " /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="60EodPm3h55.6RcLppSKvJk" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="33">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Imagine you have just printed out a 4-page document and wanted to keep the papers together. Which technology would you choose to make sure your papers stayed together?&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="While all of the technologies pictured on this slide could achieve your purpose, you might have selected one or two clear choices over the others. Yes, maple syrup would technically get the job done, but it may cause other unintended consequences, like not being able to pull the papers apart neatly or having your document invaded by hungry ants. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="It’s the same principle when it comes to teaching technologies. While some options may technically get the job done, they may make the task more difficult or have unintended consequences. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="In this section, we will explore a pedagogical framework called TPACK which will help you balance when to use technology and help you decide which technology to use to meet your learning objectives. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Click GO to learn more. " /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="60EodPm3h55.6RBP6T3SjEX" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="34">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="The TPACK framework consists of Technology, Pedagogy and Content Knowledge and describes the transactional relationship and overlaps between these three areas. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="The TPACK framework is less a prescription of how to find and use technology and more of a strategic way to think about the purpose of technology and how it can influence your teaching methods, your content and students’ learning process. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="TPACK is the intersection of the appropriate use of technology, good teaching practices and expert-level content knowledge. The center of these three circles symbolizes the ideal teaching approach that balances these three areas appropriately and is neither too heavy on any one of these areas nor does it leave any of them out. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="In addition to the relation of the areas of TPACK, there are also overlaps between each circle that can also be helpful in understanding the relationships within the framework. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="The overlap of Technology and Content Knowledge challenges us to think about how technology can be used to present content but also to think about how our content may change as new technologies evolve. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="The overlap of Technology and Pedagogy asks us to consider how technology can be used to teach but also that as we incorporate new technologies into our classes, we must also teach our students how to use these technologies efficiently and effectively. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="And finally the overlap of Pedagogy and Content Knowledge reminds us that we should not only stay up-to-date with our own subject matter, but also with the evolving research of teaching and learning and use best practices to present our content and help our students learn and practice it. The flip side of this relationship asks us to remember that many of our students are new to studying our discipline and can benefit from our experience using discipline-specific strategies to read, study, and think within the subject area. We should help our students think like a mathematician or read like a biologist. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Click GO to learn more about how you can use the TPACK framework to evaluate and select technologies for classroom use." /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="60EodPm3h55.6UYbEOng4rw" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="35">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="A quick Google search for teaching technologies will present you with an array of tools with shiny new features that you may be tempted to incorporate into your classes to increase engagement and make learning more fun. While you can always reach out to the staff at the Center for Teaching Excellence for guidance, what can we take from the TPACK framework to help us select and use technology effectively in the classroom?&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="First, all technology use should have a clear purpose and relate back to at least one objective or learning goal. Technology should never be used just for the sake of “trying something new” or for the sole purpose of making the class fun. Having fun in class is not a bad thing, but it shouldn’t be the main reason you’re using a new tool. Your technologies should accomplish a part of helping you meet your objectives whether it’s presenting content, low-stakes assessment, communicating with students or facilitating group work. We’ll explore some of the different technologies you can use to do these things in the next section on Teaching Technologies, but for now, it’s important to make sure whatever the technology is, it’s pulling its weight in helping you and your students meet the course objectives.&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="In some disciplines there are specific technologies or tools that professionals use in the field that students may benefit from using. Giving students experience with real-world technologies can give them a leg-up when applying for jobs or internships. In addition to technical tools, popular technologies and software used for communication or office tasks may also benefit students who learn to use them in college. Professional communication apps like Slack or Jira may be useful for students to start using before they get to the workplace and other tools like the Microsoft Office Suite or Google App Suite can be essential skills for students entering the workforce. If there are certain tools you frequently use in the discipline that lend themselves to student-use in your class, it can be a great benefit to students to start using these tools now rather than learn it when they get hired. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="It’s important to mention that learning new technologies isn’t always straightforward and simple. Some technologies are very complex and while they may have some strong benefits, there is a steep learning curve to get you up and running. It’s important to be realistic with the time you have to dedicate to learning a new technology and if it’s going to take you hours and hours to learn how to use it effectively, the benefit of using that technology had better be worth it! &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Besides the time it takes you to learn the tool, you should also be prepared to teach students how to use the tool if they are going to be expected to use it themselves. Some tools, like presentation software, may not be necessary to teach students how to use if it’s mainly to present content to them, however, if students are expected to use the technology to complete an assignment or practice a skill, they may require training and guidance to be successful. Fortunately, there are many video tutorials for how to use most technologies online on YouTube and you can also create your own tutorials or demonstrate how to use the tool to students, but you should be prepared to answer questions about the technology or help troubleshoot if something isn’t behaving as expected for students. The Center for Teaching Excellence can support you by creating instructional documentation for students and even visiting your classroom (in person or online) to give guided instructions or answer questions if that would be helpful to you and your students. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="The Learning Commons is also available to help students with questions about technology needed to complete assignments. Students can contact LC@howardcc.edu for help and Learning Commons staff will set up a time to meet with a student by phone or Zoom or provide assistance via email. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Click BACK to return to the Pedagogical Concepts slide. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text=" &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block /&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="60EodPm3h55.6GOvXqXgy1K" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="36">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Universal Design for Learning (or UDL) is an approach to teaching that strives to level the playing field and give all learners the opportunity to succeed. It encourages us to teach in ways that appeals to different learning preferences and use multiple strategies and methods to help students meet the learning objectives. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Within UDL, there are 3 main areas that provide guidelines for how to best reach your students. These 3 pillars are Engagement, Representation, and Expression. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Click on the images to view more information about each area. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="You can also click the link at the bottom of the screen to visit the CAST website which provides an even more thorough overview of what each of these areas are and how you can use them to help your students learn. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="When you have viewed all 3 of the UDL areas, a BACK button will appear on this slide that will take you back to the Pedagogical Concepts slide. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Engagement&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Engagement in UDL is all about the WHY of learning. In order to engage all of your students, it’s important to first establish relevance in what you are teaching. If you think back on our discussion on adult learning theory, you will remember that establishing relevance is also a key part of teaching adult learners effectively. Students want to know why they are learning the content and how it will impact their personal and professional lives. Beginning lectures and activities with real-world examples and helping your students make personal connections to your topic will set them up for greater success. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Next, it’s important to clearly express your objectives. What is it that you want students to do? You’ve already got them interested by establishing how the topic is relevant to them, but you need to also tell them what your expectations are and what skills or knowledge they will be able to demonstrate by the end of the lesson. This helps students focus on the important parts and distinguish between essential information and things that are nice to know, but not critical to the objective. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Once you have established relevance and expressed your objectives, try to minimize distractions as much as you can. Usually when we think of distractions, laptops, cell phones and social media come to mind, however, in this case, distractions can take the form of unnecessary information, too many additional resources, and even the amount of links on a webpage. Whenever possible, limit your resources and reading to the essential information and consider ways to simplify what your students see both in class and online. Taking the less is more approach for words and images on a PowerPoint slide can lower cognitive demand and make it easier for students to focus on what’s important. And when you are not using the presentation, blank the screen or turn off the projector to help students focus on the task at hand.&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Another aspect of engagement is the encouragement you provide to your students. Let students know that you care about them and want them to succeed. It can be as simple as adding a positive message on assignment feedback or stating at the beginning of the semester both in your syllabus and in person, that you believe in your students and will work with them to help them succeed in your class. That doesn’t mean you’re going to make things easier for them, but if they work hard and put in the time and effort, you will do the same to help them learn and meet the objectives.&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Finally, consider providing opportunities for self-assessment and reflection. Incorporate pauses for reflection in lectures and videos and build in self-assessment questions as part of your daily or weekly routine. Ask students to assess how they studied for your class as well as self-assess their understanding of the material. Giving students time and space to reflect and assess can help them think about their own learning process and open the door for conversation about study skills and approaches which will help them not only in your class, but for their entire college career. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Click the X to return to the UDL slide. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Representation&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Representation refers to the WHAT of learning. What are students learning and how is it being presented to them? &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="The most common strategy for enhancing representation is varying your presentation methods. Offering audio alternatives for visual information and offering visual alternatives for auditory information can make your content more accessible to everyone. They key here is less about mixing materials, such as using visual materials one day and then auditory materials the next, but rather including both options in everything you do. This includes providing transcripts and captions for videos, and providing videos or audio clips that explain what’s written in text. It’s not always feasible to provide alternatives for every piece of content, assignment or communication, but being aware of which methods you are using and providing alternatives when it is feasible can help make your course more accessible to all of your students. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Another representation strategy is clarifying symbols, keywords and acronyms that are commonly used in your discipline. Knowing these symbols and acronyms may greatly help students in their future careers, however, you should not expect that all students will come to your class knowing what they mean. This is especially true in math and hard sciences where specific vocabulary becomes second nature for those in the discipline but may not be as obvious to novice learners. Take UDL for example. To those of us who are familiar with this approach, the acronym is quite obvious. However, if you’ve never heard of Universal Design for Learning, UDL might sound strange and confusing. Taking time to clarify discipline specific symbols, keywords and acronyms can make it easier for students to focus on understanding the concept, rather than trying to decipher exactly what it is you’re talking about. If you aren’t sure whether your students know a specific keyword or acronym, ask for a volunteer to explain what it is. That way, you don’t need to repeat yourself every time and students may offer a new way to explain the word or symbol from the novice’s perspective rather than your expert explanation. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Highlighting patterns, big ideas and relationships is a common teaching strategy that many teachers already use. Instead of teaching various distinct concepts, help students make connections between topics by revealing patterns and relationships among them. You can even ask students to attempt to make connections as an activity to check their understanding before providing additional information and clarification on big ideas or patterns. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="All of your content exists within a context. Your course material has a wealth of research and history behind it that your students may not necessarily be aware of. While you don’t need to explain the beginning of numbers and letters, it may be useful to explain some of the background behind how a concept was discovered or created or what period of history the course material relates to. Providing additional information helps students lay a foundation of knowledge to build upon once they start using the skills and knowledge you want to teach them. You may also be able to ask students what they already know about a topic to activate their prior knowledge about the concept and build from there. Sometimes students know quite a bit about your topic and you can start at a higher level of discourse, rather than assuming students don’t know the basics. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Click the X to return to the UDL slide. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Expression&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Expression refers to the way students demonstrate their understanding and knowledge. It also includes the HOW of learning - HOW will students learn and provide evidence of their learning? &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Similar to using multiple means for presenting information, you may also consider using multiple mediums and media for communication. HCC students rarely respond to their emails, but they are much more likely to respond to direct messages on Canvas Inbox. You may also communicate with students through text, video, or audio announcements on Canvas, as well as reviewing important housekeeping items during class. Some students have also responded well to instructors who provide a Google Voice number that they can text since many students are more comfortable with their cell phones than they are with computers or laptops. Providing different avenues for students to communicate makes it more likely that students will reach out to you and respond when you reach out to them. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Another important aspect of expression is providing opportunities for choice and autonomy. Instead of dictating the way that students must complete a project or assignment, provide a range of choices that students could use to demonstrate their learning. For example, instead of requiring all students to write a 4-page essay on the causes of the civil war, you could allow students to create a video, develop a podcast, create an infographic or create a presentation. All of these methods would allow you to evaluate students’ understanding of the causes of the civil war, but they would be free to choose the method of providing that evidence for themselves. This increases their autonomy and gives them the freedom to express their learning in the way that is most comfortable for them. Not everyone will choose to create a video and many students may still opt to write the traditional essay, but that’s their choice and it may make a big difference for the students who do opt for alternative formats. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Students are not always able to accurately assess the amount of time and effort certain assignments will take and confusion and self-doubt often lead to putting things off until the last minute. You can help guide goal setting even for minor assignments by providing an estimated time students should expect to spend working on an assignment or reading. You can also help students evaluate their processes with self-reflection questions on how they approached the task and suggest more efficient ways to work. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Scaffolding is a pedagogical term which means providing gradually declining support to help students complete a task. When a skill is brand new, students may need more support to get started on their own. Once they start to get the hang of it, you may need to provide nudges to keep them on course. Then when they are starting to master the skill, they may only need feedback after performance to help them achieve expert-level nuances in their work. Providing varying levels of support such as video tutorials, step-by-step guides and demonstrations can help give students the confidence they need to try skills on their own. Once they start getting good at it, you can back off a little and provide support only when needed. Providing support for students who need it and letting more proficient students work on their own helps you make the most efficient use of your time while also giving students the space or support they need to get the job done at their own pace. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+      &lt;Span Text="Click the X to return to the UDL slide. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" CustomTabStops="" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
+        &lt;BaseSpanStyle FontFamily="Open Sans Semibold" FontSize="9" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="#000000" /&gt;
+        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
+      &lt;/Style&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="60EodPm3h55.6LaeVd6jhB2" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="37">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="In this section, you have learned that Backward Design is a non-linear planning process that applies to both curriculum design as well as individual lesson planning. It starts from identifying the objectives, designing assessments to evaluate students’ progress on those objectives and then determining what activities or content will help them achieve that progress. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="You then learned about the TPACK framework and the relationship between your content, technology tools and teaching strategies. Remember that whatever technology you choose to incorporate into your classes should be used to help students meet the course objectives, and not just because it’s new or fun. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="And finally you learned about Universal Design for Learning and its 3 areas: engagement, representation and expression. Among many other strategies within these 3 areas, you learned the importance of clarifying your objectives and establishing the relevance of your content, providing alternative formats for presentation materials and giving students choice in how they demonstrate their learning. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="When you’re ready, click the " /&gt;
+      &lt;Span Text="QUIZ button "&gt;
+        &lt;Style FontIsBold="True" /&gt;
+      &lt;/Span&gt;
+      &lt;Span Text="to check your understanding of the information presented in this section. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block /&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="60EodPm3h55.6rpuzqkWDqv" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="38">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="What does the “Backward” part of Backward Design mean?&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Select your answer, then click SUBMIT." /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="60EodPm3h55.5lVqMvcwsLO" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="39">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Which of the following statements is NOT true about the TPACK framework?&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Select your answer, then click SUBMIT." /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="60EodPm3h55.6Yfke58wO1P" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="40">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="If a student needs help with technology for an assignment, what should they do?&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Select your answer, then click SUBMIT." /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="60EodPm3h55.5XX13VF8KSv" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="41">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style Justification="Left" /&gt;
+      &lt;Span Text="Which of the following are areas of Universal Design for Learning?&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style Justification="Left" /&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style Justification="Left" /&gt;
+      &lt;Span Text="Select your answer, then click SUBMIT." /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="60EodPm3h55.5gZoECqraUE" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="42">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Style Justification="Left" /&gt;
+      &lt;Span Text="Which of the following are examples of UDL in practice?&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style Justification="Left" /&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style Justification="Left" /&gt;
+      &lt;Span Text="Select your answer, then click SUBMIT." /&gt;
+    &lt;/Block&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="60EodPm3h55.6p0ZWbwih5J" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="43">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Congratulations!&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="You have completed this section of the New Faculty Crash Course! &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Click GO to view the next section on Teaching Technologies! &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Try Again&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Click the RETRY button to take the quiz again. You must get at least 60% to pass. " /&gt;
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
