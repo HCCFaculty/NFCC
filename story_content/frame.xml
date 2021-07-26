@@ -1142,51 +1142,51 @@
   <string_tables>
     <string_table name="npnxnanbnsnfns10111101101">
       <string id="acc_active">active</string>
-      <string id="search_results">Search Results</string>
-      <string id="search_in">Search in:</string>
-      <string id="acc_search_input">search</string>
-      <string id="search">Search...</string>
-      <string id="restart">Restart</string>
-      <string id="acc_resources">resources</string>
-      <string id="resources">Resources</string>
-      <string id="acc_replay">replay</string>
-      <string id="question_list">Question List</string>
-      <string id="resume">Resume</string>
-      <string id="acc_skipnavigation">Skip navigation. Press enter to return to the slide.</string>
-      <string id="acc_volume">volume</string>
-      <string id="acc_submit">submit</string>
-      <string id="submit">SUBMIT</string>
-      <string id="acc_submitall">submit all</string>
-      <string id="submitall">SUBMIT ALL</string>
-      <string id="slide_text_chk">Slide Text</string>
-      <string id="acc_previous">previous</string>
-      <string id="prev">BACK</string>
-      <string id="closed_captions">Captions</string>
-      <string id="terms">Terms</string>
-      <string id="glossary">Glossary</string>
-      <string id="acc_definition">definition</string>
-      <string id="definition">Definition</string>
-      <string id="acc_finish">finish</string>
-      <string id="finish">FINISH</string>
-      <string id="filter">Filter</string>
-      <string id="exit">Exit</string>
-      <string id="continueresponsive">Continue</string>
-      <string id="continue">Continue</string>
-      <string id="acc_closed_captions">Closed captions. Press the spacebar to toggle captions on and off.</string>
-      <string id="close">Close</string>
-      <string id="clear">Clear and return to menu</string>
       <string id="check_include">Check to include</string>
+      <string id="clear">Clear and return to menu</string>
+      <string id="close">Close</string>
+      <string id="acc_closed_captions">Closed captions. Press the spacebar to toggle captions on and off.</string>
+      <string id="continue">Continue</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="exit">Exit</string>
+      <string id="filter">Filter</string>
+      <string id="finish">FINISH</string>
+      <string id="acc_finish">finish</string>
+      <string id="definition">Definition</string>
+      <string id="acc_definition">definition</string>
+      <string id="glossary">Glossary</string>
+      <string id="terms">Terms</string>
+      <string id="outline">Table of Contents</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="next">NEXT</string>
+      <string id="acc_next">next</string>
+      <string id="transcript_chk">Notes</string>
       <string id="transcript">Transcript</string>
       <string id="bio">Bio</string>
       <string id="more_info">More info</string>
-      <string id="send_an_email">Send an email</string>
+      <string id="closed_captions">Captions</string>
       <string id="acc_pause">pause</string>
       <string id="acc_play">play</string>
-      <string id="transcript_chk">Notes</string>
-      <string id="acc_next">next</string>
-      <string id="next">NEXT</string>
-      <string id="disabled_orientation">Please rotate your device</string>
-      <string id="outline">Table of Contents</string>
+      <string id="send_an_email">Send an email</string>
+      <string id="prev">BACK</string>
+      <string id="acc_previous">previous</string>
+      <string id="question_list">Question List</string>
+      <string id="acc_replay">replay</string>
+      <string id="resources">Resources</string>
+      <string id="acc_resources">resources</string>
+      <string id="restart">Restart</string>
+      <string id="resume">Resume</string>
+      <string id="search">Search...</string>
+      <string id="acc_search_input">search</string>
+      <string id="search_in">Search in:</string>
+      <string id="search_results">Search Results</string>
+      <string id="acc_skipnavigation">Skip navigation. Press enter to return to the slide.</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="submitall">SUBMIT ALL</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="submit">SUBMIT</string>
+      <string id="acc_submit">submit</string>
+      <string id="acc_volume">volume</string>
     </string_table>
   </string_tables>
   <fonts>
@@ -1222,13 +1222,13 @@
         <slidelink slideid="_player.5bJwUi6ldBi" displaytext="Adult Learning Theory" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.5bJwUi6ldBi.5g49wO52MHE" displaytext="Who are Community College Students?" expand="false" type="slide" />
+            <slidelink slideid="_player.5bJwUi6ldBi.610GSnRqwsk" displaytext="The Open Door Policy" expand="false" type="slide" />
             <slidelink slideid="_player.5bJwUi6ldBi.5Yo7xg26nNp" displaytext="Percent Is Right Instructions" expand="false" type="slide" />
             <slidelink slideid="_player.5bJwUi6ldBi.62wVVX88plE" displaytext="Average Age of Students" expand="false" type="slide" />
             <slidelink slideid="_player.5bJwUi6ldBi.6holbEmPFF4" displaytext="Part-Time Students" expand="false" type="slide" />
             <slidelink slideid="_player.5bJwUi6ldBi.6iQ3gvaYNqt" displaytext="International Students" expand="false" type="slide" />
             <slidelink slideid="_player.5bJwUi6ldBi.6Mua6u9KKBM" displaytext="English is not spoken at home" expand="false" type="slide" />
             <slidelink slideid="_player.5bJwUi6ldBi.651FRcl6KJd" displaytext="Community College Demographics" expand="false" type="slide" />
-            <slidelink slideid="_player.5bJwUi6ldBi.610GSnRqwsk" displaytext="The Open Door Policy" expand="false" type="slide" />
             <slidelink slideid="_player.5bJwUi6ldBi.5qJlXsHJwCK" displaytext="Knowles’ 4 Principles Of Adult Learning" expand="false" type="slide" />
             <slidelink slideid="_player.5bJwUi6ldBi.5d0FLw1QnV0" displaytext="Summary" expand="false" type="slide" />
           </links>
@@ -1266,7 +1266,7 @@
   <resource_data description="&lt;p align='left'&gt;&lt;font face='Open Sans Semibold' style='font-size: 11px;' size='11' color='#FFFFFF'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
     <resources>
       <resource url="https://mediasite.howardcc.edu/Mediasite/Play/ffa3528aee5843208dbc89008d72b0361d" image="story_content/url.png" title="What is a Hybrid? Video" />
-      <resource url="story_content/external_files/Teaching in Masks &amp; Face Shields - An Experiment.pdf" image="story_content/5h3MKwhdeAi.png" title="Teaching in Masks &amp; Face Shields - An Experiment" />
+      <resource url="story_content/external_files/Teaching in Masks &amp; Face Shields - An Experiment.pdf" image="story_content/6CmTMEAPpTF.png" title="Teaching in Masks &amp; Face Shields - An Experiment" />
     </resources>
   </resource_data>
   <transcript_data>
@@ -1523,38 +1523,7 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="62GN9iLFnr4.5aqffNH8OUo" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="3">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
-  &lt;Content&gt;
-    &lt;Block&gt;
-      &lt;Span Text="Using a mask is an important safety precaution for preventing the spread of COVID-19. While teaching in a mask does have its disadvantages, wearing a mask is required for both faculty and students while in the classroom and inside buildings on campus. &amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Span Text="&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Span Text="Face shields may be a good alternative in disciplines like language where seeing facial expressions is important to the learning process. However, masks are still strongly encouraged and faculty may switch between wearing a face shield and a mask depending on the activity. &amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Span Text="&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Span Text="The most important way to prepare yourself to teach with a mask is to practice! Try giving a 5 to 10 minute lesson while wearing a mask so that you get comfortable with the feeling and experiment with what works best. &amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Span Text="&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Span Text="Recording yourself or practicing with a friend or family member can provide feedback so that you can adjust your teaching style to be as clear and understandable as possible while wearing your mask. &amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Span Text="&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Span Text="Click GO to learn more. " /&gt;
-    &lt;/Block&gt;
-  &lt;/Content&gt;
-&lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="62GN9iLFnr4.6UKDLra687U" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="4">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="62GN9iLFnr4.6UKDLra687U" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="3">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Span Text="Let’s look at a non-scientific study conducted by professors at Roanoke College. &amp;#xA;" /&gt;
@@ -1582,7 +1551,7 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="62GN9iLFnr4.5cSqDRUjJ7y" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="5">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="62GN9iLFnr4.5cSqDRUjJ7y" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="4">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Span Text="Does the material of the mask affect sound or comfort more?&amp;#xA;" /&gt;
@@ -1595,7 +1564,7 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="62GN9iLFnr4.6qBb58sedde" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="6">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="62GN9iLFnr4.6qBb58sedde" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="5">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style Justification="Left" /&gt;
@@ -1609,7 +1578,7 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="62GN9iLFnr4.5uic0mN8Sfk" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="7">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="62GN9iLFnr4.5uic0mN8Sfk" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="6">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Span Text="True or False: Professors in the study found face shields are far preferable to masks for speaking. &amp;#xA;" /&gt;
@@ -1623,7 +1592,7 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="62GN9iLFnr4.5Y5a5dxo301" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="8">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="62GN9iLFnr4.5Y5a5dxo301" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="7">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Span Text="Summary&amp;#xA;" /&gt;
@@ -1660,7 +1629,7 @@
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="62GN9iLFnr4.5yRMIREYkD9" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="9">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="62GN9iLFnr4.5yRMIREYkD9" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="8">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Span Text="In this section, you have learned about the challenges of teaching in the post-COVID environment and strategies to deal with increased personal space, getting students to participate and building classroom community. &amp;#xA;" /&gt;
@@ -1696,7 +1665,7 @@
     &lt;Block /&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="62GN9iLFnr4.6dzP0ToU4kA" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="10">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="62GN9iLFnr4.6dzP0ToU4kA" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="9">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Span Text="There are several supplies that you may want to bring with you when you teach on campus. &amp;#xA;" /&gt;
@@ -1846,6 +1815,37 @@
       &lt;Span Text="These are the items in your bag. Click on an item to view the information again. or click the X to return to your teacher toolkit. &amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block /&gt;
+  &lt;/Content&gt;
+&lt;/Document&gt;</slidetranscript>
+      <slidetranscript slideid="62GN9iLFnr4.5aqffNH8OUo" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="10">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Content&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Using a mask is an important safety precaution for preventing the spread of COVID-19. While teaching in a mask does have its disadvantages, wearing a mask is required for both faculty and students while in the classroom and inside buildings on campus. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Face shields may be a good alternative in disciplines like language where seeing facial expressions is important to the learning process. However, masks are still strongly encouraged and faculty may switch between wearing a face shield and a mask depending on the activity. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="The most important way to prepare yourself to teach with a mask is to practice! Try giving a 5 to 10 minute lesson while wearing a mask so that you get comfortable with the feeling and experiment with what works best. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Recording yourself or practicing with a friend or family member can provide feedback so that you can adjust your teaching style to be as clear and understandable as possible while wearing your mask. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Span Text="Click GO to learn more. " /&gt;
+    &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
       <slidetranscript slideid="62GN9iLFnr4.6QOJrvn5MrP" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="11">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
