@@ -1423,7 +1423,7 @@
       <resource url="https://mediasite.howardcc.edu/Mediasite/Play/ffa3528aee5843208dbc89008d72b0361d" image="story_content/url.png" title="What is a Hybrid? Video" />
       <resource url="https://www.ctefaculty.com/ferpa-training.html" image="story_content/url.png" title="Are You FERPAred? (FERPA Training)" />
       <resource url="https://myhcc.howardcc.edu/fac-resources/academic-affairs/Pages/Dual-Enrollment.aspx" image="story_content/url.png" title="JumpStart (Dual Enrollment Program)" />
-      <resource url="story_content/external_files/Teaching in Masks &amp; Face Shields - An Experiment.pdf" image="story_content/5VqFLY75tx9.png" title="Teaching in Masks &amp;amp; Face Shields - An Experiment" />
+      <resource url="story_content/external_files/Teaching in Masks &amp; Face Shields - An Experiment.pdf" image="story_content/67awvRaN5XO.png" title="Teaching in Masks &amp;amp; Face Shields - An Experiment" />
     </resources>
   </resource_data>
   <transcript_data>
@@ -6176,11 +6176,15 @@
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
-      &lt;Span Text="Click the EVALUATION button to complete an evaluation and final synthesis activity where you w" /&gt;
-      &lt;Span Text="ill be asked to answer 5 out of 10 total questions "&gt;
-        &lt;Style /&gt;
-      &lt;/Span&gt;
-      &lt;Span Text="to demonstrate what you have learned about all of the content within this crash course.&amp;#xA;" /&gt;
+      &lt;Span Text="Click the EVALUATION button to complete an evaluation and final synthesis activity where you will be asked to answer 5 out of 10 total questions to demonstrate what you have learned about the content within this crash course.&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Then you will be asked to provide some feedback on your experience with this course. &amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
@@ -6201,6 +6205,10 @@
     &lt;Block&gt;
       &lt;Style /&gt;
       &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Thank You!&amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
