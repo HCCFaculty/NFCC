@@ -7,8 +7,6 @@
     <layout name="npnxnanbnsnfns10111101101" font="Open Sans Semibold" controllayout="npnxnanbnsnfns10111101101" colorscheme="npnxnanbnsnfns10111101101" string_table="npnxnanbnsnfns10111101101" />
     <layout name="pxabnsnfns10111101100" font="Open Sans Semibold" controllayout="pxabnsnfns10111101100" colorscheme="npnxnanbnsnfns10111101101" string_table="npnxnanbnsnfns10111101101" />
     <layout name="npnxnanbnsnfns00001101101" font="Open Sans Semibold" controllayout="npnxnanbnsnfns00001101101" colorscheme="npnxnanbnsnfns10111101101" string_table="npnxnanbnsnfns10111101101" />
-    <layout name="pxabnsnfns00001101101" font="Open Sans Semibold" controllayout="pxabnsnfns00001101101" colorscheme="npnxnanbnsnfns10111101101" string_table="npnxnanbnsnfns10111101101" />
-    <layout name="npxnanbnsnfns10111101101" font="Open Sans Semibold" controllayout="npxnanbnsnfns10111101101" colorscheme="npnxnanbnsnfns10111101101" string_table="npnxnanbnsnfns10111101101" />
   </layouts>
   <control_options>
     <optiongroups>
@@ -217,52 +215,6 @@
       <control name="logo" enabled="false" />
       <control name="previous" enabled="false" />
       <control name="next" enabled="false" />
-      <control name="swipeleft" enabled="false" />
-      <control name="swiperight" enabled="false" />
-      <control name="submit" enabled="false" />
-      <control name="finish" enabled="false" />
-      <control name="submitall" enabled="false" />
-      <control name="resources" enabled="true" />
-      <control name="glossary" enabled="false" />
-      <control name="transcript" enabled="true" />
-      <control name="outline" enabled="true">
-        <controls>
-          <control name="search" enabled="false" />
-        </controls>
-      </control>
-      <control name="close_btn" enabled="true" />
-    </control_layout>
-    <control_layout name="pxabnsnfns00001101101">
-      <control name="volume" enabled="true" />
-      <control name="seekbar" enabled="false" />
-      <control name="replay" enabled="false" />
-      <control name="pauseplay" enabled="false" />
-      <control name="logo" enabled="false" />
-      <control name="previous" enabled="true" />
-      <control name="next" enabled="true" />
-      <control name="swipeleft" enabled="true" />
-      <control name="swiperight" enabled="true" />
-      <control name="submit" enabled="false" />
-      <control name="finish" enabled="false" />
-      <control name="submitall" enabled="false" />
-      <control name="resources" enabled="true" />
-      <control name="glossary" enabled="false" />
-      <control name="transcript" enabled="true" />
-      <control name="outline" enabled="true">
-        <controls>
-          <control name="search" enabled="false" />
-        </controls>
-      </control>
-      <control name="close_btn" enabled="true" />
-    </control_layout>
-    <control_layout name="npxnanbnsnfns10111101101">
-      <control name="volume" enabled="true" />
-      <control name="seekbar" enabled="true" />
-      <control name="replay" enabled="true" />
-      <control name="pauseplay" enabled="true" />
-      <control name="logo" enabled="false" />
-      <control name="previous" enabled="false" />
-      <control name="next" enabled="true" />
       <control name="swipeleft" enabled="false" />
       <control name="swiperight" enabled="false" />
       <control name="submit" enabled="false" />
@@ -1365,7 +1317,7 @@
         </slidelink>
         <slidelink slideid="_player.6X9vWITTMYN" displaytext="Teaching Technology" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6X9vWITTMYN.6fKg1rL8Ea8" displaytext="Teaching Technology" expand="false" type="slide" />
+            <slidelink slideid="_player.6X9vWITTMYN.6fKg1rL8Ea8" displaytext="Teaching Technology TV" expand="false" type="slide" />
             <slidelink slideid="_player.6X9vWITTMYN.5qaPFRbowUB" displaytext="Teaching Technology Guide" expand="false" type="slide" />
             <slidelink slideid="_player.6X9vWITTMYN.66LWqaZrn1s" displaytext="Canvas Assignments" expand="false" type="slide" />
             <slidelink slideid="_player.6X9vWITTMYN.5WZvBYd2H5O" displaytext="Canvas Discussions" expand="false" type="slide" />
@@ -1376,8 +1328,8 @@
             <slidelink slideid="_player.6X9vWITTMYN.6qnVIp9qwuI" displaytext="Google Slides" expand="false" type="slide" />
             <slidelink slideid="_player.6X9vWITTMYN.5polxOttXFD" displaytext="Jamboard" expand="false" type="slide" />
             <slidelink slideid="_player.6X9vWITTMYN.5eBE4jtsSad" displaytext="Quizizz" expand="false" type="slide" />
-            <slidelink slideid="_player.6X9vWITTMYN.6RWQjQyzaEx" displaytext="Zoom" expand="false" type="slide" />
             <slidelink slideid="_player.6X9vWITTMYN.5yoDTn3Ey9D" displaytext="Outlook" expand="false" type="slide" />
+            <slidelink slideid="_player.6X9vWITTMYN.6RWQjQyzaEx" displaytext="Zoom" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.5lsswrrNvJt" displaytext="Instructional Strategies" expand="true" type="slide">
@@ -1420,10 +1372,11 @@
   </nav_data>
   <resource_data description="&lt;p align='left'&gt;&lt;font face='Open Sans Semibold' style='font-size: 11px;' size='11' color='#FFFFFF'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
     <resources>
-      <resource url="https://mediasite.howardcc.edu/Mediasite/Play/ffa3528aee5843208dbc89008d72b0361d" image="story_content/url.png" title="What is a Hybrid? Video" />
+      <resource url="https://www.ctefaculty.com/accommodations.html" image="story_content/url.png" title="Accommodation Memo" />
       <resource url="https://www.ctefaculty.com/ferpa-training.html" image="story_content/url.png" title="Are You FERPAred? (FERPA Training)" />
       <resource url="https://myhcc.howardcc.edu/fac-resources/academic-affairs/Pages/Dual-Enrollment.aspx" image="story_content/url.png" title="JumpStart (Dual Enrollment Program)" />
-      <resource url="story_content/external_files/Teaching in Masks &amp; Face Shields - An Experiment.pdf" image="story_content/67awvRaN5XO.png" title="Teaching in Masks &amp;amp; Face Shields - An Experiment" />
+      <resource url="story_content/external_files/Teaching in Masks &amp; Face Shields - An Experiment.pdf" image="story_content/5YXk2iaak6q.png" title="Teaching in Masks &amp;amp; Face Shields - An Experiment" />
+      <resource url="https://mediasite.howardcc.edu/Mediasite/Play/ffa3528aee5843208dbc89008d72b0361d" image="story_content/url.png" title="What is a Hybrid? Video" />
     </resources>
   </resource_data>
   <transcript_data>
@@ -1716,7 +1669,7 @@
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
-      &lt;Span Text="Hybrid classes offer the benefits of a face-to-face class with the additional flexibility of being able to do the rest of the course work online.&amp;#xA;" /&gt;
+      &lt;Span Text="Hybrid classes offer the benefits of a face-to-face class with the additional flexibility of being able to do the rest of the coursework online.&amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
@@ -1993,7 +1946,7 @@
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
-      &lt;Span Text="And, you identified items to take with you to class in your Teacher Toolkit.&amp;#xA;" /&gt;
+      &lt;Span Text="And, you identified items to take with you to class in your teacher toolkit.&amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
@@ -3323,7 +3276,7 @@
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
-      &lt;Span Text="And finally, the overlap of Pedagogy and Content Knowledge reminds us that we should not only stay up to date with our own subject matter, but also with the evolving research of teaching and learning, and use best practices to present our content and help our students learn and practice it. The flip side of this relationship asks us to remember that many of our students are new to studying our discipline and can benefit from our experience using discipline-specific strategies to read, study, and think within the subject area. We should help our students think like a mathematician or read like a biologist. &amp;#xA;" /&gt;
+      &lt;Span Text="And finally, the overlap of Pedagogy and Content Knowledge reminds us that we should not only stay up to date with our own subject matter, but also with the evolving research of teaching and learning and use best practices to present our content and help our students learn and practice it. The flip side of this relationship asks us to remember that many of our students are new to studying our discipline and can benefit from our experience using discipline-specific strategies to read, study, and think within the subject area. We should help our students think like a mathematician or read like a biologist. &amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
@@ -6001,7 +5954,7 @@
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
-      &lt;Span Text="Remember that maintaining a polite and professional level of communication with students is the most effective way to deal with challenging behaviors without destroying the rapport you have built with your students. You need to address these behaviors so they don’t get worse, but you should do so in a way that doesn’t create an adversarial relationship between you and the student. &amp;#xA;" /&gt;
+      &lt;Span Text="Remember that maintaining a polite and professional level of communication with students is the most effective way to deal with challenging behavior without destroying the rapport you have built with your students. You need to address these behaviors so that they don’t get worse, but you should do so in a way that doesn’t create an adversarial relationship between you and the student. &amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
@@ -6009,7 +5962,7 @@
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
-      &lt;Span Text="Think about a student who has been challenging to you or if you don’t have one in mind, think about which student would be the most challenging in the scenarios we just reviewed. &amp;#xA;" /&gt;
+      &lt;Span Text="Think about a student who has been challenging to you, or if you don’t have one in mind, think about which student would be the most challenging in the scenarios we just reviewed. &amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
@@ -6017,7 +5970,7 @@
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
-      &lt;Span Text="Identify the behavior that is challenging and what emotions or factors might be causing the behavior. Consider how the behavior makes you feel, but try to take an objective approach to responding to the challenge so that you can maintain a positive relationship with the student while still addressing the behavior. Finally think about what else you might want to know about the student. It might not be appropriate to ask the student directly, but you can always state that you have noticed the specific behavior, explain why it is inappropriate, and tell them you would like to help them or find ways to avoid the behavior in the future. &amp;#xA;" /&gt;
+      &lt;Span Text="Identify the behavior that is challenging and what emotions or factors might be causing that behavior. Consider how the behavior makes you feel but try to take an objective approach to responding to the challenge so that you can maintain a positive relationship with the student, while still addressing the behavior. Finally, think about what else you might want to know about the student. It might not be appropriate to ask the student directly, but you can always state that you have noticed the specific behavior, explain why it is inappropriate, and tell them you would like to help them or find ways to avoid the behavior in the future. &amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
@@ -6033,7 +5986,7 @@
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
-      &lt;Span Text="When you’re finished, click the BACK button to return to the Creating Community slide. " /&gt;
+      &lt;Span Text="When you’re finished, click BACK to return to the Classroom Community slide. " /&gt;
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
@@ -6049,7 +6002,7 @@
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
-      &lt;Span Text="When building community, it’s important to make your students feel respected, connected and that they belong in your class. You can create a sense of belonging through inclusion, positive attitude, incorporating meaningful assignments, and helping students see their growing level of competence. You can further build community through building rapport with your students, making it safe for students to make mistakes and encouraging students to interact with each other. &amp;#xA;" /&gt;
+      &lt;Span Text="When building community, it’s important to make your students feel respected, connected, and that they belong in your class. You can create a sense of belonging through inclusion, positive attitude, incorporating meaningful assignments, and helping students see their growing level of competence. You can further build community through building rapport with your students, making it safe for students to make mistakes, and encouraging students to interact with each other. &amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
@@ -6057,7 +6010,7 @@
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
-      &lt;Span Text="When dealing with challenging behaviors, prevention is better than a cure. Prevent challenges by building a strong community, posting an agenda in class or before class and checking in with students through Canvas or in person. You can respond to challenges with proximity, incorporating movement into the class routine and working with Disability Support Services if you need further guidance. Remember to keep your communication positive to maintain a positive relationship with your student while still addressing the issue at hand.&amp;#xA;" /&gt;
+      &lt;Span Text="When dealing with challenging behaviors, prevention is better than a cure. Prevent challenges by building a strong community, posting an agenda in class or before class, and checking in with students through Canvas or in person. You can respond to challenges with proximity, incorporating movement into the class routine, and working with Disability Support Services if you need further guidance. Remember to keep your communication positive to maintain a positive relationship with your student, while still addressing the issue at hand.&amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
@@ -6069,10 +6022,7 @@
       &lt;Span Text="QUIZ button "&gt;
         &lt;Style FontIsBold="True" /&gt;
       &lt;/Span&gt;
-      &lt;Span Text="to check your understanding of the information presented in this section. &amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style /&gt;
+      &lt;Span Text="to check your understanding of the information presented in this section. " /&gt;
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
@@ -6184,7 +6134,7 @@
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
-      &lt;Span Text="Then you will be asked to provide some feedback on your experience with this course. &amp;#xA;" /&gt;
+      &lt;Span Text="Then, you will be asked to provide some feedback on your experience with this course. &amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
@@ -6205,10 +6155,6 @@
     &lt;Block&gt;
       &lt;Style /&gt;
       &lt;Span Text="&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style /&gt;
-      &lt;Span Text="Thank You!&amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
