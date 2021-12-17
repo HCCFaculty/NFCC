@@ -1161,10 +1161,35 @@
   </colorschemes>
   <string_tables>
     <string_table name="npnxnanbnsnfns10111101101">
+      <string id="three_image_progress_audio">progress</string>
+      <string id="three_image_audio">audio</string>
+      <string id="three_image_camera_down">camera moved down</string>
+      <string id="three_image_camera_left">camera moved left</string>
+      <string id="three_image_camera_right">camera moved right</string>
+      <string id="three_image_camera_up">camera moved up</string>
+      <string id="three_image_interaction_free">free exploration mode</string>
+      <string id="three_image_interaction_guided">guided tour mode</string>
+      <string id="three_image_hotspot">hotspot</string>
+      <string id="three_image_instructions">Use your arrow keys to move around the 360 degree image. Press the tab key to jump to interactive markers and hotspots.</string>
+      <string id="three_image_interaction">360 degree image interaction</string>
+      <string id="three_image_label">label</string>
+      <string id="three_image_marker">marker</string>
       <string id="three_image_items">items</string>
-      <string id="three_image_viewed">viewed</string>
+      <string id="three_image_interaction_next">next</string>
+      <string id="three_image_pause_audio">pause audio</string>
+      <string id="three_image_pause_video">pause video</string>
+      <string id="three_image_play_audio">play audio</string>
+      <string id="three_image_play_video">play video</string>
+      <string id="three_image_interaction_prev">previous</string>
+      <string id="three_image_visited">visited</string>
       <string id="three_image_of">of</string>
       <string id="three_image_item">item</string>
+      <string id="three_image_interaction_step">step</string>
+      <string id="three_image_tooltip">tooltip</string>
+      <string id="three_image_progress_video">progress</string>
+      <string id="three_image_video">video</string>
+      <string id="three_image_video_volume">video volume</string>
+      <string id="three_image_view_image">view image</string>
       <string id="accessible_text">Accessible text</string>
       <string id="keyboardshortcuts_lower">Keyboard shortcuts</string>
       <string id="zoom_to_fit">Zoom to fit</string>
@@ -1188,6 +1213,8 @@
       <string id="acc_definition">definition</string>
       <string id="glossary">Glossary</string>
       <string id="terms">Terms</string>
+      <string id="progress_hour">hour</string>
+      <string id="progress_hours">hours</string>
       <string id="action">Action</string>
       <string id="keyboardshortcuts">Keyboard Shortcuts</string>
       <string id="shortcuthelp">List keyboard shortcuts</string>
@@ -1203,6 +1230,8 @@
       <string id="togglezoom">Toggle zoom to fit</string>
       <string id="outline">Table of Contents</string>
       <string id="disabled_orientation">Please rotate your device</string>
+      <string id="progress_minute">minute</string>
+      <string id="progress_minutes">minutes</string>
       <string id="mute_tip">Mute</string>
       <string id="next">NEXT</string>
       <string id="acc_next">next</string>
@@ -1238,6 +1267,8 @@
       <string id="search">Search...</string>
       <string id="search_in">Search in:</string>
       <string id="search_results">Search Results</string>
+      <string id="progress_second">second</string>
+      <string id="progress_seconds">seconds</string>
       <string id="settings_tip">Settings</string>
       <string id="shift_key">Shift</string>
       <string id="acc_skipnavigation">Skip navigation. Press enter to return to the slide.</string>
@@ -1335,6 +1366,10 @@
         <slidelink slideid="_player.5lsswrrNvJt" displaytext="Instructional Strategies" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.5lsswrrNvJt.5sdoKzXY6CC" displaytext="Instructional Strategies" expand="false" type="slide" />
+            <slidelink slideid="_player.5lsswrrNvJt.5iQ26txnPZn" displaytext="Lecture" expand="false" type="slide" />
+            <slidelink slideid="_player.5lsswrrNvJt.6awHe8ncM1A" displaytext="Fact or Fiction?" expand="false" type="slide" />
+            <slidelink slideid="_player.5lsswrrNvJt.649QEaBumA5" displaytext="What is the Instructor’s Role?" expand="false" type="slide" />
+            <slidelink slideid="_player.5lsswrrNvJt.5eQJXBilhc7" displaytext="Active Lecture Techniques" expand="false" type="slide" />
             <slidelink slideid="_player.5lsswrrNvJt.6IPrrVKZmwi" displaytext="Discussion" expand="false" type="slide" />
             <slidelink slideid="_player.5lsswrrNvJt.67EK5PlSlqe" displaytext="Why don’t students talk?" expand="false" type="slide" />
             <slidelink slideid="_player.5lsswrrNvJt.6Nt6W167cfL" displaytext="What can you do in the moment?" expand="false" type="slide" />
@@ -1344,10 +1379,6 @@
             <slidelink slideid="_player.5lsswrrNvJt.5bmWd25G9CN" displaytext="Mitigation Strategies" expand="false" type="slide" />
             <slidelink slideid="_player.5lsswrrNvJt.6USn3E9HQ8J" displaytext="Breakout Room Strategies" expand="false" type="slide" />
             <slidelink slideid="_player.5lsswrrNvJt.6mhIdz4psWx" displaytext="Icebreaker Ideas" expand="false" type="slide" />
-            <slidelink slideid="_player.5lsswrrNvJt.5iQ26txnPZn" displaytext="Lecture" expand="false" type="slide" />
-            <slidelink slideid="_player.5lsswrrNvJt.6awHe8ncM1A" displaytext="Fact or Fiction?" expand="false" type="slide" />
-            <slidelink slideid="_player.5lsswrrNvJt.649QEaBumA5" displaytext="What is the Instructor’s Role?" expand="false" type="slide" />
-            <slidelink slideid="_player.5lsswrrNvJt.5eQJXBilhc7" displaytext="Active Lecture Techniques" expand="false" type="slide" />
             <slidelink slideid="_player.5lsswrrNvJt.6WXlKBT0MAu" displaytext="Summary" expand="false" type="slide" />
           </links>
         </slidelink>
@@ -1375,7 +1406,7 @@
       <resource url="https://www.ctefaculty.com/accommodations.html" image="story_content/url.png" title="Accommodation Memo" />
       <resource url="https://www.ctefaculty.com/ferpa-training.html" image="story_content/url.png" title="Are You FERPAred? (FERPA Training)" />
       <resource url="https://myhcc.howardcc.edu/fac-resources/academic-affairs/Pages/Dual-Enrollment.aspx" image="story_content/url.png" title="JumpStart (Dual Enrollment Program)" />
-      <resource url="story_content/external_files/Teaching in Masks &amp; Face Shields - An Experiment.pdf" image="story_content/5YXk2iaak6q.png" title="Teaching in Masks &amp;amp; Face Shields - An Experiment" />
+      <resource url="story_content/external_files/Teaching in Masks &amp; Face Shields - An Experiment.pdf" image="story_content/5YHNhBu1NDS.png" title="Teaching in Masks &amp;amp; Face Shields - An Experiment" />
       <resource url="https://mediasite.howardcc.edu/Mediasite/Play/ffa3528aee5843208dbc89008d72b0361d" image="story_content/url.png" title="What is a Hybrid? Video" />
     </resources>
   </resource_data>
@@ -4075,11 +4106,7 @@
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
-      &lt;Span Text="When you ask a question:&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style /&gt;
-      &lt;Span Text="Students may not be confident in their answer and don’t want to look stupid if they are wrong.&amp;#xA;" /&gt;
+      &lt;Span Text="When you ask a question, students may not be confident in their answer and don’t want to look stupid if they’re wrong.&amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
@@ -4139,7 +4166,7 @@
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
-      &lt;Span Text="After waiting, if you still don’t get any takers, try one of the following techniques: &amp;#xA;" /&gt;
+      &lt;Span Text="After waiting, if you still don’t get any takers, try one of the following techniques.&amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
@@ -4403,7 +4430,7 @@
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
-      &lt;Span Text="You can replicate this activity online using a shared Google Doc, Slidedeck, or Jamboard where students write their responses on the document and then discuss and/or comment on another group’s responses.&amp;#xA;" /&gt;
+      &lt;Span Text="You can replicate this activity online using a shared Google Doc, Slide deck, or Jamboard where students write their responses on the document and then discuss and/or comment on another group’s responses.&amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
@@ -4439,7 +4466,7 @@
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
-      &lt;Span Text="Another approach would be to go around, group by group, and ask each group to contribute one new idea. This way, each group has to share something different, and they don't need to share everything they discussed, just one important unique idea. In this case, however, you may need to accept that groups near the end may not have anything additional to contribute that has not already been said, and that's OK. However, make sure that you vary where you start so that the same group doesn't always go last. &amp;#xD;&amp;#xA;" /&gt;
+      &lt;Span Text="Another approach would be to go around, group by group, and ask each group to contribute one new idea. This way, each group has to share something different, and they don't need to share everything they discussed, just one important unique idea. In this case, however, you may need to accept that groups near the end may not have anything additional to contribute that has not already been said, and that's okay. However, make sure that you vary where you start so that the same group doesn't always go last. &amp;#xD;&amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
@@ -4659,11 +4686,7 @@
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
-      &lt;Span Text="Active lecture techniques give students time to reflect on what they have learned and give you a chance to assess how well students are understanding the material. Here are a few of our favorite activities " /&gt;
-      &lt;Span Text="you can employ between sections of your content. "&gt;
-        &lt;Style /&gt;
-      &lt;/Span&gt;
-      &lt;Span Text="&amp;#xA;" /&gt;
+      &lt;Span Text="Active lecture techniques give students time to reflect on what they have learned and give you a chance to assess how well students are understanding the material. Here are a few of our favorite activities you can employ between sections of your content. &amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
